@@ -1,0 +1,2 @@
+# GitNotes
+Practice git 
